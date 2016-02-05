@@ -1,0 +1,13 @@
+{
+  "name": "testing-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate setup for unit testing",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine-node src/"
+  },
+  "author": "Tomasz Ducin <tomasz.ducin@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
