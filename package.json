@@ -1,0 +1,7 @@
+{
+  "name": "karma-demo",
+  "version": "1.0.0",
+  "description": "Boilerplate setup for unit testing",
+  "author": "Tomasz Ducin <tomasz.ducin@gmail.com>",
+  "license": "MIT"
+}
